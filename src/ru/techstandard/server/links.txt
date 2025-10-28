@@ -1,0 +1,10 @@
+http://www.sql.ru/forum/941801/extgwt-zagruzka-faylov
+http://ruchi0711.blogspot.ru/2011/07/file-upload-in-gwt.html
+http://blog.ropardo.ro/2011/04/19/gwt-2-1-uploading-a-file-using-the-rpc-mechanism/
+
+http://eclipse.org/m2e/download/
+http://krams915.blogspot.ru/2012/02/spring-31-gwt-maven-plugin-and_4306.html
+https://spring.io/tools/sts
+
+http://www.drdobbs.com/web-development/implementing-secure-login-part-2/231002659?pgno=1
+http://varuntayur.wordpress.com/2012/01/25/session-management-in-gwt/
